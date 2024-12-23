@@ -12,7 +12,7 @@ int Add(int arr[], int len)
 	return result;
 }
 
-int Average(int arr[], int len)
+double Average(int arr[], int len)
 {
 	int sum = Add(arr, len);
 	return sum / len;
