@@ -18,5 +18,8 @@
     <ClCompile Include="Num_SumAvr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Array_Sort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
